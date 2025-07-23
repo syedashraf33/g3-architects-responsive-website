@@ -77,3 +77,10 @@
     width: 100%;
 }
 
+/* responsive media querey */
+@media screen and (max-width:556px) {
+    .navbar, .nav-links{
+        flex-direction: column;
+    }
+
+}
